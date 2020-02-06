@@ -88,12 +88,9 @@
 		"homepage_link": "Dashboard",
 		"knowledge_base_link": "Knowledge base",
 		"languages": {
-			"cnil_translations": "CNIL provided translations",
-			"community_translations": "Community provided translations",
 			"cz": "Česky",
 			"de": "Deutsch",
 			"dk": "Dansk",
-			"dpa_translations": "Translation revised by European DPA",
 			"el": "Ελληνικά",
 			"en": "English",
 			"es": "Español",
@@ -106,16 +103,15 @@
 			"lt": "Lietuviškai",
 			"nl": "Nederlands",
 			"no": "Norsk",
-			"official_translation": "Original version",
 			"pl": "Polski",
 			"pt": "Português",
 			"ro": "Română",
 			"sl": "Slovenščina"
 		},
 		"logo_subtitle": "",
-		"logo_title": "Privacy impact assessment",
-		"pia_example_link": "PIA example",
-		"structures": "PIA template",
+		"logo_title": "",
+		"pia_example_link": "DPIA example",
+		"structures": "DPIA template",
 		"tools": {
 			"about": "About",
 			"accessibility": "Visually impaired accessibility (high contrast colors, daltonism)",
@@ -870,10 +866,10 @@
 			"review_section": "Review a section"
 		},
 		"import_wrong_pia_file": {
-			"content": "The imported file doesn't correspond to a PIA report file."
+			"content": "The imported file doesn't correspond to a DPIA report file."
 		},
 		"import_wrong_structure_file": {
-			"content": "The imported file doesn't correspond to a PIA template file."
+			"content": "The imported file doesn't correspond to a DPIA template file."
 		},
 		"modal_select_text_pia": {
 			"content": "The content of the PIA has been copied to clipboard."

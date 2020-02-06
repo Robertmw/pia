@@ -1,10 +1,10 @@
 .pia {
   &-navigationBlock {
     position: relative;
-    background-color: $pia-blue;
+    background-color: $rezz-red;
     margin-top: 4px;
     &-structures {
-      background-color: $pia-green;
+      background-color: $rezz-red;
     }
     .container {
       position: relative;
@@ -27,20 +27,33 @@
           text-transform: uppercase;
           font-weight: 500;
           font-size: 1.38rem;
-          &:focus, &:hover, &:active {
+          &:focus,
+          &:hover,
+          &:active {
             background-color: #fff;
-            color: $pia-blue;
+            color: $rezz-red;
+          }
+
+          &.active {
+            color: $rezz-red;
           }
         }
         a {
           text-decoration: none;
+        }
+
+        &.active {
+          a {
+            color: $rezz-red !important;
+          }
         }
       }
       .pia-navigationBlock-languages {
         color: #fff;
         position: relative;
         border-left: 1px solid #fff;
-        .fa-globe {
+        .fa-globe,
+        .fa-info-circle {
           font-size: 1.8rem;
           margin-top: 2px;
         }
@@ -54,7 +67,7 @@
           top: 28px;
           left: -1px;
           min-width: 200px;
-          color: $pia-blue;
+          color: $pia-light-black;
           list-style-type: none;
           box-shadow: 2px 2px 4px 1px rgba(181, 181, 181, 1);
           li {
@@ -66,13 +79,13 @@
               text-transform: none;
               font-weight: normal;
               text-decoration: none;
-              color: $pia-blue;
-              padding: 0 8px;
+              color: $pia-light-black;
+              padding: 3px 8px;
             }
             &.is_active {
-              background-color: $pia-blue !important;
+              text-decoration: underline;
               a {
-                color: $pia-white !important;
+                font-weight: bold;
               }
             }
           }
@@ -88,16 +101,17 @@
           .cnilTranslations,
           .dpaTranslations,
           .communityTranslations {
-            border-top: 1px solid #A7A7A7;
+            border-top: 1px solid #a7a7a7;
             padding-bottom: 3px;
           }
         }
         &:hover {
-          > a, > ul {
+          > a,
+          > ul {
             background-color: #fff;
           }
           .fa-globe {
-            color: $pia-blue;
+            color: $rezz-red;
           }
           > ul {
             display: block;
@@ -106,138 +120,25 @@
               background-color: #fff;
               a {
                 display: block;
-                &:focus, &:hover, &:active {
+                &:focus,
+                &:hover,
+                &:active {
                   color: #fff;
-                  background-color: $pia-blue;
+                  background-color: $rezz-red;
                 }
               }
             }
           }
         }
         > a {
-          cursor: context-menu;
           padding: 4px 14px !important;
-          &:focus, &:hover, &:active {
+          &:focus,
+          &:hover,
+          &:active {
             & + ul {
               display: block;
               background-color: #fff;
             }
-          }
-        }
-      }
-      .pia-navigationBlock-company {
-        position: relative;
-        border-left: 1px solid #fff;
-        border-right: 1px solid #fff;
-        min-width: 90px;
-        > a {
-          min-width: 90px;
-          text-transform: none !important;
-          padding: 4px 14px !important;
-          cursor: context-menu;
-          text-align: center;
-          .fa-user {
-            margin-right: 14px;
-            font-size: 1.9rem;
-          }
-          .pia-icon-scroll {
-            margin-top: 5px;
-            margin-left: 8px;
-            float: right;
-          }
-          &:focus, &:hover, &:active {
-            color: #fff !important;
-            background-color: $pia-green;
-            & + form {
-              display: block;
-            }
-            .pia-icon-scroll {
-              background-position: -367px -39px;
-            }
-          }
-        }
-        form {
-          display: none;
-          font-size: 1.4rem;
-          border: 1px solid $pia-gray;
-          border-top: none;
-          position: absolute;
-          width: 185px;
-          top: 28px;
-          right: -1px;
-          color: $pia-light-black;
-          padding: 23px 6px 24px 10px;
-          z-index: 999;
-          background-color: #fff;
-          > fieldset {
-            border: none;
-            margin: 0;
-            padding: 0;
-            > legend {
-              padding-left: 5px;
-              a {
-                cursor: pointer;
-                &:hover {
-                  font-weight: 500 !important;
-                }
-              }
-            }
-          }
-          div {
-            margin: 10px 0;
-            border-bottom: 1px solid $pia-gray;
-            padding-bottom: 10px;
-            input, label {
-              display: inline-block;
-              vertical-align: top;
-            }
-            input {
-              width: 13px;
-              margin-top: 3px;
-            }
-            label {
-              padding: 0;
-              margin: 0;
-              width: 88%;
-              font-size: 1.2rem;
-              line-height: 1.4;
-              cursor: pointer;
-              span {
-                font-style: italic;
-              }
-            }
-            &:last-child {
-              border: 0;
-              padding: 0;
-              margin-bottom: 0;
-            }
-            > a {
-              cursor: pointer;
-              &:hover {
-                font-weight: 500 !important;
-              }
-            }
-          }
-          a {
-            padding: 10px 0 !important;
-            color: $pia-light-black !important;
-            font-weight: 400 !important;
-            padding-left: 8px !important;
-          }
-        }
-        &:focus, &:hover, &:active {
-          > a {
-            color: #fff !important;
-            background-color: $pia-green;
-            .pia-icon-scroll {
-              background-position: -367px -39px;
-            }
-          }
-          li > a {
-            color: #fff;
-          }
-          > form {
-            display: block;
           }
         }
       }
