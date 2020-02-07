@@ -8,7 +8,7 @@
 
 		"licences": "Licence biblioteka:",
 
-		"title": "O alatu za PUP pia",
+		"title": "O alatu za PUP DPIA",
 
 		"translators": "Softver za PUP trenutno je dostupan na osamnaest jezika. Inačice na francuskom i engleskom jeziku omogućio je CNIL. Druge inačice rezultat su doprinosa sljedećih pojedinaca:",
 
@@ -619,7 +619,7 @@
 
 				"name": "Particioniranje podataka",
 
-				"source": "pia3 p19 - WIKI"
+				"source": "DPIA3 p19 - WIKI"
 
 			},
 
@@ -639,7 +639,7 @@
 
 				"name": "Kontrole logičkog pristupa",
 
-				"source": "pia3 p43 - WIKI"
+				"source": "DPIA3 p43 - WIKI"
 
 			},
 
@@ -679,7 +679,7 @@
 
 				"name": "Ulozi",
 
-				"source": "pia1 p4 footnote 8"
+				"source": "DPIA1 p4 footnote 8"
 
 			},
 
@@ -699,7 +699,7 @@
 
 				"name": "Ozbiljnost",
 
-				"source": "pia1 page 6"
+				"source": "DPIA1 page 6"
 
 			},
 
@@ -729,7 +729,7 @@
 
 				"name": "Prijetnja",
 
-				"source": "pia1 p12 - WIKI"
+				"source": "DPIA1 p12 - WIKI"
 
 			},
 
@@ -739,7 +739,7 @@
 
 				"name": "Prijetnje koje mogu dovesti do nezakonitog pristupa",
 
-				"source": "piaF Connected objects p44 and 45"
+				"source": "DPIAF Connected objects p44 and 45"
 
 			},
 
@@ -749,7 +749,7 @@
 
 				"name": "Prijetnje koje mogu dovesti do nestanka osobnih podataka",
 
-				"source": "piaF Connected Objects p44 and 45, WIKI"
+				"source": "DPIAF Connected Objects p44 and 45, WIKI"
 
 			},
 
@@ -759,7 +759,7 @@
 
 				"name": "Prijetnje koje mogu dovesti do neželjenih izmjena osobnih podataka",
 
-				"source": "piaF Connected Objects p43 and 44, WIKI"
+				"source": "DPIAF Connected Objects p43 and 44, WIKI"
 
 			},
 
@@ -788,7 +788,7 @@
 
 				"name": "Filtriranje i uklanjanje",
 
-				"source": "piaF Connected objects p42 - WIKI"
+				"source": "DPIAF Connected objects p42 - WIKI"
 
 			},
 
@@ -798,7 +798,7 @@
 
 				"name": "Smanjenje osjetljivosti putem pretvorbe",
 
-				"source": "piaF Connected objects p42 - WIKI"
+				"source": "DPIAF Connected objects p42 - WIKI"
 
 			},
 
@@ -808,7 +808,7 @@
 
 				"name": "Smanjenje identificirajuće prirode podataka",
 
-				"source": "piaF Connected objects p42 - WIKI"
+				"source": "DPIAF Connected objects p42 - WIKI"
 
 			},
 
@@ -818,7 +818,7 @@
 
 				"name": "Smanjenje akumulacije podataka",
 
-				"source": "piaF Connected objects p42 - WIKI"
+				"source": "DPIAF Connected objects p42 - WIKI"
 
 			},
 
@@ -828,7 +828,7 @@
 
 				"name": "Ograničavanje pristupa podacima",
 
-				"source": "piaF Connected objects p42 - WIKI"
+				"source": "DPIAF Connected objects p42 - WIKI"
 
 			},
 
@@ -848,7 +848,7 @@
 
 				"name": "Smanjenje količine samih podataka",
 
-				"source": "pia3 p64"
+				"source": "DPIA3 p64"
 
 			},
 
@@ -878,7 +878,7 @@
 
 				"name": "Ispitanik",
 
-				"source": "pia1 p9"
+				"source": "DPIA1 p9"
 
 			},
 
@@ -948,7 +948,7 @@
 
 				"name": "Izvor rizika",
 
-				"source": "pia1 p11 - WIKI"
+				"source": "DPIA1 p11 - WIKI"
 
 			},
 
@@ -968,7 +968,7 @@
 
 				"name": "Pomoćna sredstva",
 
-				"source": "pia1 p10"
+				"source": "DPIA1 p10"
 
 			},
 
@@ -988,7 +988,7 @@
 
 				"name": "Vjerojatnost",
 
-				"source": "pia1 page 6"
+				"source": "DPIA1 page 6"
 
 			},
 
@@ -1006,7 +1006,7 @@
 
 				"name": "Zajednički osobni podaci",
 
-				"source": "pia2 old version - WIKI"
+				"source": "DPIA2 old version - WIKI"
 
 			},
 
@@ -1120,7 +1120,7 @@
 
 				"name": "Privola",
 
-				"source": "pia3 p11 - WIKI"
+				"source": "DPIA3 p11 - WIKI"
 
 			},
 
@@ -1130,7 +1130,7 @@
 
 				"name": "Podaci i postupci",
 
-				"source": "pia1 p6"
+				"source": "DPIA1 p6"
 
 			},
 
@@ -1140,7 +1140,7 @@
 
 				"name": "Opis obrade",
 
-				"source": "pia1 p4"
+				"source": "DPIA1 p4"
 
 			},
 
@@ -1160,7 +1160,7 @@
 
 				"name": "Trajanje pohrane",
 
-				"source": "piaF Connected Objects p12"
+				"source": "DPIAF Connected Objects p12"
 
 			},
 
@@ -1180,7 +1180,7 @@
 
 				"name": "Opravdanje zakonitosti",
 
-				"source": "pia2 p4"
+				"source": "DPIA2 p4"
 
 			},
 
@@ -1190,7 +1190,7 @@
 
 				"name": "Obavještavanje ispitanika",
 
-				"source": "pia3 p8 - WIKI"
+				"source": "DPIA3 p8 - WIKI"
 
 			},
 
@@ -1200,7 +1200,7 @@
 
 				"name": "Načelo smanjenja količine podataka",
 
-				"source": "piaF Connected Objects p10 - WIKI"
+				"source": "DPIAF Connected Objects p10 - WIKI"
 
 			},
 
@@ -1210,7 +1210,7 @@
 
 				"name": "Podizvođači",
 
-				"source": "pia2 p10"
+				"source": "DPIA2 p10"
 
 			},
 
@@ -1220,7 +1220,7 @@
 
 				"name": "Pomoćno sredstvo",
 
-				"source": "pia1 p10"
+				"source": "DPIA1 p10"
 
 			},
 
@@ -1230,7 +1230,7 @@
 
 				"name": "Prijenosi",
 
-				"source": "piaF Connected Objects p18"
+				"source": "DPIAF Connected Objects p18"
 
 			},
 
@@ -1242,7 +1242,7 @@
 
 				"placeholder": "Ovdje navedite da li se nadzire učinkovitost i primjerenost kontrola privatnosti.",
 
-				"source": "pia3 p76 - WIKI"
+				"source": "DPIA3 p76 - WIKI"
 
 			},
 
@@ -1254,7 +1254,7 @@
 
 				"placeholder": "Ovdje za izvršitelje obrade koji zahtijevaju pristup podacima navedite sigurnosne kontrole i dogovore koji se provode u vezi s takvim pristupom.",
 
-				"source": "pia3 p48 - WIKI"
+				"source": "DPIA3 p48 - WIKI"
 
 			},
 
@@ -1266,7 +1266,7 @@
 
 				"placeholder": "Ovdje navedite da li su definirane uloge i odgovornosti za zaštitu podataka.",
 
-				"source": "piaF Connected Objects p24 - WIKI"
+				"source": "DPIAF Connected Objects p24 - WIKI"
 
 			},
 
@@ -1278,7 +1278,7 @@
 
 				"placeholder": "Ovdje opišite kako je zaštita privatnosti integrirana u projekte",
 
-				"source": "pia3 p79 - WIKI"
+				"source": "DPIA3 p79 - WIKI"
 
 			},
 
@@ -1290,7 +1290,7 @@
 
 				"placeholder": "Ovdje navedite koje se kontrole podizanja svijesti provode u odnosu na zaposlenike.",
 
-				"source": "piaF Connected Objects p24"
+				"source": "DPIAF Connected Objects p24"
 
 			},
 
@@ -1302,7 +1302,7 @@
 
 				"placeholder": "Ovdje opišite dokumentarnu bazu koja navodi ciljeve i pravila zaštite podataka.",
 
-				"source": "pia3 p78 - WIKI"
+				"source": "DPIA3 p78 - WIKI"
 
 			},
 
@@ -1314,7 +1314,7 @@
 
 				"placeholder": "Ovdje opišite postupke za kontrolu rizika koje aktivnosti obrade koju organizacija provodi predstavljaju za zaštitu podataka i privatnost ispitanika.",
 
-				"source": "pia3 p77 - WIKI"
+				"source": "DPIA3 p77 - WIKI"
 
 			},
 
@@ -1326,7 +1326,7 @@
 
 				"placeholder": "Ovdje navedite jesu li IT incidenti podložni dokumentiranom i testiranom postupku upravljanja.",
 
-				"source": "piaF Connected Objects p24 and pia3 p36 - WIKI"
+				"source": "DPIAF Connected Objects p24 and DPIA3 p36 - WIKI"
 
 			},
 
@@ -1338,7 +1338,7 @@
 
 				"placeholder": "Ovdje navedite kako se upravlja sigurnosnim kopijama. Pojasnite jesu li pohranjene na sigurnom mjestu.",
 
-				"source": "piaF Connected Objects p23 & pia3 p27  - WIKI"
+				"source": "DPIAF Connected Objects p23 & DPIA3 p27  - WIKI"
 
 			},
 
@@ -1350,7 +1350,7 @@
 
 				"placeholder": "Ovdje opišite kontrole koje se provode na radnim stanicama",
 
-				"source": "piaF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 
 			},
 
@@ -1374,7 +1374,7 @@
 
 				"placeholder": "Ovdje opišite kako se provode ažuriranja softvera (operativnih sustava, aplikacija itd.) i primjena sigurnosnih ispravljajućih zakrpa za sigurnosne ispravke.",
 
-				"source": "piaF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 
 			},
 
@@ -1386,7 +1386,7 @@
 
 				"placeholder": "Ovdje navedite sredstva i kontrole koje se provode za otkrivanje incidenta koji uključuju osobne podatke",
 
-				"source": "pia3 p67 - WIKI"
+				"source": "DPIA3 p67 - WIKI"
 
 			},
 
@@ -1398,7 +1398,7 @@
 
 				"placeholder": "Ovdje opišite kako se upravlja fizičkim održavanjem hardvera",
 
-				"source": "piaF Connected Objects p23"
+				"source": "DPIAF Connected Objects p23"
 
 			},
 
@@ -1410,7 +1410,7 @@
 
 				"placeholder": "Ovdje opišite kontrole koje se provode kako bi se smanjili rizici pri pristupu manje sigurnim mrežama.",
 
-				"source": "piaF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 
 			},
 
@@ -1422,7 +1422,7 @@
 
 				"placeholder": "Ovdje navedite kontrole koje su od utjecaja na fizičku sigurnost poslužitelja i radnih stanica",
 
-				"source": "piaF Connected Objects p23 - WIKI"
+				"source": "DPIAF Connected Objects p23 - WIKI"
 
 			},
 
@@ -1434,7 +1434,7 @@
 
 				"placeholder": "Ovdje navedite sigurnosne kontrole mreže na kojoj se obrada izvršava",
 
-				"source": "piaF Connected Objects p23"
+				"source": "DPIAF Connected Objects p23"
 
 			},
 
@@ -1446,7 +1446,7 @@
 
 				"placeholder": "Ovdje navedite kako se provodi kontrola fizičkog pristupa u prostorijama u kojima se obrada izvršava.",
 
-				"source": "piaF Connected Objects p23"
+				"source": "DPIAF Connected Objects p23"
 
 			},
 
@@ -1458,7 +1458,7 @@
 
 				"placeholder": "Ovdje navedite sredstva za ograničavanje ne-ljudskih izvora rizika.",
 
-				"source": "piaF Connected Objects p23 - WIKI"
+				"source": "DPIAF Connected Objects p23 - WIKI"
 
 			},
 
@@ -1470,7 +1470,7 @@
 
 				"placeholder": "Ovdje navedite je li područje implantacije podložno ekološkim katastrofama",
 
-				"source": "piaF Connected Objects p23 - WIKI"
+				"source": "DPIAF Connected Objects p23 - WIKI"
 
 			},
 
@@ -1482,7 +1482,7 @@
 
 				"placeholder": "Ovdje navedite kontrole provedene za zaštitu mrežnih stranica.",
 
-				"source": "piaF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 
 			},
 
@@ -1494,7 +1494,7 @@
 
 				"placeholder": "Ovdje navedite implementirane anonimizacijske mehanizme",
 
-				"source": "piaF Connected Objects p21"
+				"source": "DPIAF Connected Objects p21"
 
 			},
 
@@ -1506,7 +1506,7 @@
 
 				"placeholder": "Ovdje navedite da li su uvedeni mehanizmi za praćenje integriteta pohranjenih podataka, kojih i u koju svrhu.",
 
-				"source": "piaF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 
 			},
 
@@ -1518,7 +1518,7 @@
 
 				"placeholder": "Opišite ovdje provedena sredstva za osiguranje povjerljivosti podataka",
 
-				"source": "piaF Connected Objects p21"
+				"source": "DPIAF Connected Objects p21"
 
 			},
 
@@ -1530,7 +1530,7 @@
 
 				"placeholder": "Ovdje navedite da li se planira particioniranje obrade i kako se ono provodi.",
 
-				"source": "piaF Connected Objects p21"
+				"source": "DPIAF Connected Objects p21"
 
 			},
 
@@ -1542,7 +1542,7 @@
 
 				"placeholder": "Ovdje navedite kako su definirani i kako se pripisuju korisnički profili.",
 
-				"source": "piaF Connected Objects p21"
+				"source": "DPIAF Connected Objects p21"
 
 			},
 
@@ -1554,7 +1554,7 @@
 
 				"placeholder": "Ovdje navedite da li događaji bilježe i koliko dugo se ti tragovi čuvaju.",
 
-				"source": "piaF Connected Objects p22"
+				"source": "DPIAF Connected Objects p22"
 
 			},
 
@@ -1566,7 +1566,7 @@
 
 				"placeholder": "Ovdje navedite sredstva koja su provedena kako bi se smanjila ozbiljnost rizika ograničavanjem količine osobnih podataka",
 
-				"source": "piaF Connected Objects p40"
+				"source": "DPIAF Connected Objects p40"
 
 			},
 
@@ -1578,7 +1578,7 @@
 
 				"placeholder": "Ovdje navedite jesu li uvedeni mehanizmi za praćenje integriteta papirnatih dokumenata, koji su i za koju svrhu.",
 
-				"source": "piaF Connected Objects p22"
+				"source": "DPIAF Connected Objects p22"
 
 			},
 
@@ -1598,7 +1598,7 @@
 
 				"name": "Mapiranje rizika",
 
-				"source": "piaF Connected Objects p34"
+				"source": "DPIAF Connected Objects p34"
 
 			},
 
@@ -1608,7 +1608,7 @@
 
 				"name": "Mišljenje ispitanika",
 
-				"source": "OUZP čl. 35.9 and piaF Connected Objects p38"
+				"source": "OUZP čl. 35.9 and DPIAF Connected Objects p38"
 
 			},
 
@@ -1618,7 +1618,7 @@
 
 				"name": "Mišljenje SZP-a",
 
-				"source": "OUZP čl. 35.2 and piaF Connected Objects p37"
+				"source": "OUZP čl. 35.2 and DPIAF Connected Objects p37"
 
 			},
 
@@ -1628,7 +1628,7 @@
 
 				"name": "Formalna potvrda",
 
-				"source": "piaF Connected Objects p40"
+				"source": "DPIAF Connected Objects p40"
 
 			}
 
@@ -2664,7 +2664,7 @@
 
 			"context_content": "Prikaži odjeljak \"Context\"",
 
-			"main_content": "Prikaži odjeljak \"PIA information\"",
+			"main_content": "Prikaži odjeljak \"DPIA information\"",
 
 			"principles_content": "Prikaži odjeljak \"Fundamental principles\"",
 

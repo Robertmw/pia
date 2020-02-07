@@ -3,7 +3,7 @@
 		"contribute": "Si vous souhaitez contribuer à votre tour à la traduction de l’outil ou à l’amélioration de celles déjà proposées, nous vous invitons à <a href=\"https://github.com/LINCnil/pia/tree/master/src/assets/i18n\" target=\"_blank\">lire la page décrivant les étapes à suivre</a>.",
 		"description": "Cet outil est originellement conçu par la <a target=\"_blank\" href=\"https://www.cnil.fr\">Commission Nationale de l'Informatique et des Libertés (CNIL)</a>, l’autorité de protection des données française, dans une volonté d’accompagnement des responsables de traitement dans leur démarche de conformité au RGPD. Il a été développé par <a href=\"https://atnos.com\" target=\"_blank\">ATNOS</a>.<br>Cet outil est libre et ouvert, sous licence GPLv3. Vous pouvez y contribuer en téléchargeant le code source, en le modifiant et en le redistribuant auprès de la communauté.",
 		"licences": "Licences des librairies :",
-		"title": "A propos de l'Outil PIA",
+		"title": "A propos de l'Outil DPIA",
 		"translators": "L’outil est actuellement disponible en dix-huit langues. Les versions française et anglaise sont fournies par la CNIL. Les autres versions sont le résultat des contributions des personnes suivantes :",
 		"translators_name": "<ul><li>Allemand : <a target=\"_blank\" href=\"https://github.com/kosmas58\">Kosmas Schütz</a> , Corina Scheiter (<a target=\"_blank\" href=\"https://www.datenschutz-bayern.de/\">BayLfD</a>) ;</li><li>Anglais : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Croate : <a target=\"_blank\" href=\"https://github.com/B2KapitalBA\">B2KapitalBA</a> ;</li><li>Danois <a target=\"_blank\" href=\"https://github.com/moolsen\">Michael Drews Olsen</a> ;</li><li>Espagnol : <a target=\"_blank\" href=\"https://github.com/ylachgar\">ylachgar</a> ;</li><li>Estonien : Eva Arumets, Lauri Bender, Rebeka Dronia, Kärol Kibena, Simon Suuban, <a target=\"_blank\" href=\"https://kochpartners.ee/en/people/urmas-kukk/\">Urmas Kukk, <a target=\"_blank\" href=\"https://github.com/PrivacyAssessment1\">PrivacyAssessment1</a> ;</li><li>Finnois : <a target=\"_blank\" href=\"https://tietosuoja.fi/etusivu\">Tietosuojavaltuutetun toimisto</a> ;</li><li>Français : <a target=\"_blank\" href=\"https://www.cnil.fr\">CNIL</a> ;</li><li>Grec :  <a target=\"_blank\" href=\"https://tzellis.gr\">Dimitris Tzellis</a> ;</li><li>Hongrois : <a target=\"_blank\" href=\"https://naih.hu\">Nemzeti Adatvédelmi és Információszabadság Hatóság (NAIH)</a> ;</li><li>Italien : Manuel d’Orso, Gianluca Markos, Antonio Caselli (<a target=\"_blank\" href=\"http://gpdp.it\">Garante per la Protezione dei Dai Personali (GPDP)</a>) ;</li><li>Lituanien : Paulius Galubickas (<a target=\"_blank\" href=\"http://galubickas.lt\">Law firm Galubickas</a>) ;</li><li>Néerlandais : Ruud van Driel, Manuel d’Orso ;</li><li>Norvégien : <a target=\"_blank\" href=\"https://www.datatilsynet.no\">Datatilsynet</a> ;</li><li>Polonais : <a target=\"_blank\" href=\"https://github.com/JoannaKar\">Joanna Karczewska</a> , Michal Mazur (<a target=\"_blank\" href=\"https://giodo.gov.pl\">Generalny Inspektor Ochrony Danych Osobowych (GIODO)</a>) ;</li><li>Portugais : <a target=\"_blank\" href=\"https://github.com/bagois\">Barbara Gois</a> ;</li><li>Roumain : <a target=\"_blank\" href=\"https://github.com/webmyday\">webmyday</a> ;</li><li>Tchèque : Jiří Grohmann, Manuel d’Orso.</li></ul>",
 		"version_number": "Numéro de version"
@@ -23,10 +23,10 @@
 		"title": "Vue d'ensemble"
 	},
 	"authentication": {
-		"description": "Le logiciel PIA de la <strong>Commission Nationale de l'Informatique et des Libertés (CNIL)</strong> s'inscrit dans une démarche d'accompagnement des responsables de traitement dans la mise en œuvre des obligations du RGPD. Il accompagne la conduite d'une analyse d'impact relative à la protection des données et vise aussi à faciliter l'appropriation des guides PIA de la CNIL.",
+		"description": "Le logiciel DPIA de la <strong>Commission Nationale de l'Informatique et des Libertés (CNIL)</strong> s'inscrit dans une démarche d'accompagnement des responsables de traitement dans la mise en œuvre des obligations du RGPD. Il accompagne la conduite d'une analyse d'impact relative à la protection des données et vise aussi à faciliter l'appropriation des guides DPIA de la CNIL.",
 		"start": "Commencer",
-		"start_app": "Accéder à l'outil PIA (Beta)",
-		"subtitle1": "Une plateforme pour créer <br> et administrer vos pia",
+		"start_app": "Accéder à l'outil DPIA (Beta)",
+		"subtitle1": "Une plateforme pour créer <br> et administrer vos DPIA",
 		"subtitle2": "Accéder aux outils et glossaires",
 		"title": "Analyse d'impact sur <br> la protection des données"
 	},
@@ -114,8 +114,8 @@
 		},
 		"logo_subtitle": "privacy impact assessment",
 		"logo_title": "Analyse d'impact sur la protection des données",
-		"pia_example_link": "Exemple de PIA",
-		"structures": "Modèles de PIA",
+		"pia_example_link": "Exemple de DPIA",
+		"structures": "Modèles de DPIA",
 		"tools": {
 			"about": "À propos",
 			"accessibility": "Accessibilité malvoyants (couleurs à contraste fort, adapté daltonisme)",
@@ -128,7 +128,7 @@
 		"definition": {
 			"data1": {
 				"content": "Contenu en cours d'écriture",
-				"title": "Utiliser l'Outil PIA"
+				"title": "Utiliser l'Outil DPIA"
 			},
 			"data2": {
 				"qa1": {
@@ -140,11 +140,11 @@
 					"title": "Je n’arrive pas à éditer les jauges de vraisemblance et gravité des risques"
 				},
 				"qa3": {
-					"content": "Plusieurs bugs ont été observés lors de l’import d’un PIA, en particulier la disparition des jauges d’évaluation de la gravité et vraisemblance d’un risque. Dans ce cas référez-vous à la question précédente. Si vous ne voyez pas votre PIA apparaître sur le dashboard des PIAs, rafraichissez la page et celui-ci apparaitra.",
-					"title": "Je rencontre des problèmes à l’import d’un PIA"
+					"content": "Plusieurs bugs ont été observés lors de l’import d’un DPIA, en particulier la disparition des jauges d’évaluation de la gravité et vraisemblance d’un risque. Dans ce cas référez-vous à la question précédente. Si vous ne voyez pas votre DPIA apparaître sur le dashboard des DPIAs, rafraichissez la page et celui-ci apparaitra.",
+					"title": "Je rencontre des problèmes à l’import d’un DPIA"
 				},
 				"qa4": {
-					"content": "Ceci est juste un bug d’affichage et ne compromet en rien les informations saisies dans le PIA. Ce problème sera corrigé rapidement.",
+					"content": "Ceci est juste un bug d’affichage et ne compromet en rien les informations saisies dans le DPIA. Ce problème sera corrigé rapidement.",
 					"title": "Lorsque je fais des copier-coller, mon texte apparait surligné"
 				},
 				"qa5": {
@@ -152,12 +152,12 @@
 					"title": "Je n’arrive pas à demander l’évaluation d’une partie"
 				},
 				"qa6": {
-					"content": "Fermer le PIA que vous éditez et ouvrez-le de nouveau. Les contenus devraient alors apparaitre dans la langue sélectionnée.",
+					"content": "Fermer le DPIA que vous éditez et ouvrez-le de nouveau. Les contenus devraient alors apparaitre dans la langue sélectionnée.",
 					"title": "Au changement de langue, les textes ne sont pas traduits"
 				},
 				"qa7": {
-					"content": "Actuellement, les icônes du menu de navigation de gauche ne se rafraîchissent pas après un refus de validation. Vous devez visiter de nouveau chaque section, vérifier les informations et évaluation en fonction des motifs du refus et demander une nouvelle fois une validation. Une fois toutes les sections revues, il sera possible de repasser le PIA pour validation.",
-					"title": "J’ai refusé de valider un PIA, mais ne sait pas quoi faire ensuite"
+					"content": "Actuellement, les icônes du menu de navigation de gauche ne se rafraîchissent pas après un refus de validation. Vous devez visiter de nouveau chaque section, vérifier les informations et évaluation en fonction des motifs du refus et demander une nouvelle fois une validation. Une fois toutes les sections revues, il sera possible de repasser le DPIA pour validation.",
+					"title": "J’ai refusé de valider un DPIA, mais ne sait pas quoi faire ensuite"
 				},
 				"title": "Bugs connus"
 			},
@@ -171,7 +171,7 @@
 			"creation_status": "Création",
 			"date": "Date",
 			"evaluation": "Évaluation",
-			"import_pia": "Importer PIA",
+			"import_pia": "Importer DPIA",
 			"import_structure": "Importer modèle",
 			"item": {
 				"consult_pia": "Consulter",
@@ -186,17 +186,17 @@
 					"remove": "Supprimer"
 				}
 			},
-			"new_pia": "Nouveau PIA",
+			"new_pia": "Nouveau DPIA",
 			"new_structure": "Nouveau modèle",
 			"or": "ou",
-			"pia_name": "PIA",
+			"pia_name": "DPIA",
 			"placeholder_author": "Prénom, nom",
 			"placeholder_evaluation": "Prénom, nom",
-			"placeholder_import_pia": "Importer PIA",
+			"placeholder_import_pia": "Importer DPIA",
 			"placeholder_import_structure": "Importer modèle",
-			"placeholder_new_pia": "Nouveau PIA",
+			"placeholder_new_pia": "Nouveau DPIA",
 			"placeholder_new_structure": "Nouveau modèle",
-			"placeholder_pia_name": "Intitulé du PIA",
+			"placeholder_pia_name": "Intitulé du DPIA",
 			"placeholder_sector_name": "Intitulé du Secteur associé",
 			"placeholder_start": "Tous les champs doivent être remplis",
 			"placeholder_structure": "Modèle par défaut",
@@ -214,16 +214,16 @@
 			"assessor": "Évaluateur",
 			"author": "Éditeur",
 			"card": "carte",
-			"card_rocket_content": "Lancez-vous !<br><br>Pour commencer<br>un PIA, cliquez<br> sur le +",
+			"card_rocket_content": "Lancez-vous !<br><br>Pour commencer<br>un DPIA, cliquez<br> sur le +",
 			"card_rocket_content_structure": "Lancez-vous !<br><br>Pour commencer<br>un modèle, cliquez<br> sur le +",
 			"date": "Date",
-			"import_pia": "Importer PIA",
+			"import_pia": "Importer DPIA",
 			"import_structure": "Importer modèle",
 			"list": "liste",
-			"list_rocket_content": "Lancez-vous ! Pour commencer<br>un PIA, cliquez sur le +",
+			"list_rocket_content": "Lancez-vous ! Pour commencer<br>un DPIA, cliquez sur le +",
 			"list_rocket_content_structure": "Lancez-vous ! Pour commencer<br>un modèle, cliquez sur le +",
 			"name": "Nom",
-			"new_pia": "Nouveau PIA",
+			"new_pia": "Nouveau DPIA",
 			"new_structure": "Nouveau modèle",
 			"sector_name": "Secteur associé",
 			"sort": "Trier",
@@ -236,7 +236,7 @@
 			"column_author": "Saisie",
 			"column_creation": "Création",
 			"column_evaluation": "Évaluation",
-			"column_pia": "PIA",
+			"column_pia": "DPIA",
 			"column_progression": "Progression",
 			"column_sector_name": "Secteur associé",
 			"column_status": "Statut",
@@ -251,7 +251,7 @@
 					"duplicate": "Dupliquer",
 					"edit": "Éditer",
 					"export": "Exporter",
-					"pia": "Afficher le PIA",
+					"pia": "Afficher le DPIA",
 					"remove": "Supprimer"
 				}
 			}
@@ -340,7 +340,7 @@
 			"PIA_DEF_ENJ": {
 				"description": "Il s'agit des motivations menant à la mise en oeuvre du traitement, les bénéfices attendus (pour l’organisme, pour les personnes concernées, pour la société en général…).",
 				"name": "Enjeux du traitement",
-				"source": "PIA1 p6 (note 8 en bas de page)"
+				"source": "DPIA1 p6 (note 8 en bas de page)"
 			},
 			"PIA_DEF_EXA": {
 				"description": "Les données à caractère personnel doivent être exactes et, si nécessaire, tenues à jour; toutes les mesures raisonnables doivent être prises pour que les données à caractère personnel qui sont inexactes, eu égard aux finalités pour lesquelles elles sont traitées, soient effacées ou rectifiées sans tarder (exactitude), conformément à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5\">article 5.1 d)</a>.",
@@ -350,7 +350,7 @@
 			"PIA_DEF_GRV": {
 				"description": "La gravité représente l’ampleur d’un risque. Elle dépend essentiellement du caractère préjudiciable des impacts potentiels",
 				"name": "Gravité",
-				"source": "PIA1 p9"
+				"source": "DPIA1 p9"
 			},
 			"PIA_DEF_LIM": {
 				"description": "La personne concernée a le droit d'obtenir du responsable de traitement la limitation du traitement conformément à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article18\">article 18 du RGPD</a>",
@@ -365,7 +365,7 @@
 			"PIA_DEF_MEN": {
 				"description": "Mode opératoire composé d'une ou plusieurs actions unitaires sur des supports de données. La menace peut être utilisée, volontairement ou non, par des sources de risques, et peut alors provoquer un événement redouté.",
 				"name": "Menace",
-				"source": "PIA1 p11"
+				"source": "DPIA1 p11"
 			},
 			"PIA_DEF_MENA": {
 				"description": "Menaces concernant : </strong><br>- <strong>Les matériels</strong>, utilisés de manière inadaptée, observés, modifiés ou perdus (utilisation d'un support contenant des données sensibles pour des raisons personnelles ou lors d'un transport pour lequel il n'est pas adapté, observation d'un écran, ajout d'un matériel destiné à récupérer des données etc.)<br>- <strong>Les logiciels</strong>, utilisés de manière inadaptée, observés ou modifiés (élévation de privilèges, collecte de données de configuration, installation d'un outil de prise de main à distance, etc.)<br>- <strong>Les canaux informatiques</strong> qui sont observés (interception de flux réseau, etc.)<br>- <strong>Les personnes</strong>, observées, détournées ou perdues (divulgation involontaire, à la suite de pressions ou grâce à de l'hameçonnage, changement d'employeur, etc.)<br>- <strong>Les documents papier</strong>, observés ou perdus (photocopies, impressions oubliées, récupération de documents au rebut, vol de courrier, etc.)<br>- <strong>Les canaux papier</strong> qui sont observés",
@@ -440,7 +440,7 @@
 			"PIA_DEF_PC": {
 				"description": "Personne à laquelle se rapportent les données qui font l'objet du traitement.",
 				"name": "Personne concernée",
-				"source": "PIA1 p11"
+				"source": "DPIA1 p11"
 			},
 			"PIA_DEF_PORT": {
 				"description": "Les personnes concernées ont le droit de recevoir les données à caractère personnel les concernant qu'elles ont fournies à un responsable du traitement, dans un format structuré, couramment utilisé et lisible par machine, et ont le droit de transmettre ces données à un autre responsable du traitement sans que le responsable du traitement auquel les données à caractère personnel ont été communiquées y fasse obstacle sous les conditions décrites à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre3#Article20\">Article 20 du RGPD</a>.",
@@ -475,7 +475,7 @@
 			"PIA_DEF_SRC": {
 				"description": "Personne, interne ou externe à l'organisme, agissant de manière accidentelle ou délibérée (ex : administrateur informatique, utilisateur, attaquant externe, concurrent), ou source non humaine (ex : eau, matériaux dangereux, virus informatique non ciblé) qui peut être à l’origine d’un risque.",
 				"name": "Source de risque",
-				"source": "PIA1 p12 et WIKI Types_et_exemples_de_sources_de_risques synthétisés"
+				"source": "DPIA1 p12 et WIKI Types_et_exemples_de_sources_de_risques synthétisés"
 			},
 			"PIA_DEF_ST": {
 				"description": "Personne physique ou morale, autorité publique, service ou un autre organisme qui traite des données à caractère personnel pour le compte du responsable du traitement <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4\">Article 4.8 du RGPD</a>. <br>Le sous-traitant et toute personne agissant sous l'autorité du responsable du traitement ou sous celle du sous-traitant, qui a accès à des données à caractère personnel, ne peut pas traiter ces données, excepté sur instruction du responsable du traitement, à moins d'y être obligé par le droit de l'Union ou le droit d'un État membre <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article29\">Article 29 du RGPD</a>.",
@@ -495,7 +495,7 @@
 			"PIA_DEF_VRA": {
 				"description": "La vraisemblance traduit la possibilité qu’un risque se réalise. Elle dépend essentiellement des vulnérabilités des supports face aux menaces et des capacités des sources de risques à les exploiter.",
 				"name": "Vraisemblance",
-				"source": "PIA1 p12"
+				"source": "DPIA1 p12"
 			},
 			"PIA_EX_DC": {
 				"description": "Données pour un système de score, résultat de l’application du score...",
@@ -566,12 +566,12 @@
 			"PIA_LGL_DATA": {
 				"description": "Délimiter et décrire le périmètre de manière détaillée : <br> - les données personnelles concernées, leurs destinataires et durées de conservation ;<br> - une description des processus et des supports de données pour l’ensemble du cycle de vie des données (depuis leur collecte jusqu’à leur effacement).",
 				"name": "Données traitées",
-				"source": "PIA1 p6"
+				"source": "DPIA1 p6"
 			},
 			"PIA_LGL_DESC": {
 				"description": "Présenter le traitement considéré, les finalités et les enjeux de manière synthétique. Identifier le responsable du traitement et les éventuels sous-traitants. Recenser les référentiels applicables au traitement, utiles ou à respecter , notamment les codes de conduite approuvés<br>Cf. <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article40\">art. 40 du [RGPD]</a>) <br>et certifications en matière de protection des données (cf. <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article42\">art. 42 du [RGPD]</a>).",
 				"name": "Description du traitement",
-				"source": "PIA1 p6"
+				"source": "DPIA1 p6"
 			},
 			"PIA_LGL_DEST": {
 				"description": "Personne physique ou morale, l'autorité publique, le service ou tout autre organisme qui reçoit communication de données à caractère personnel, qu'il s'agisse ou non d'un tiers. Toutefois, les autorités publiques qui sont susceptibles de recevoir communication de données à caractère personnel dans le cadre d'une mission d'enquête particulière conformément au droit de l'Union ou au droit d'un État membre ne sont pas considérées comme des destinataires; le traitement de ces données par les autorités publiques en question est conforme aux règles applicables en matière de protection des données en fonction des finalités du traitement. Comme mentionné à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre1#Article4\">art. 4.9 du [RGPD]</a>",
@@ -581,7 +581,7 @@
 			"PIA_LGL_DUR": {
 				"description": "Une durée de conservation doit être définie pour chaque type de données et justifiée par les besoins du traitement et/ou des contraintes légales. On distingue ainsi les données courantes et les données archivées dont l’accès sera restreint aux seuls acteurs concernées. Un mécanisme de suppression doit être implémenté pour archiver les données courantes ou purger les données archivées à la fin de leur période de conservation. Les traces fonctionnelles devront également être purgées, tout comme les logs techniques qui ne pourront pas être conservés indéfiniment.",
 				"name": "Durée de conservation des données",
-				"source": "PIAF Objets connectés p10"
+				"source": "DPIAF Objets connectés p10"
 			},
 			"PIA_LGL_FIN": {
 				"description": "Les données à caractère personnel doivent être collectées pour des finalités déterminées, explicites et légitimes et <strong>ne sont pas traitées ultérieurement de manière incompatible avec ces finalités</strong>; <br> Comme mentionné à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article5\">art. 5b du [RGPD]</a>",
@@ -591,7 +591,7 @@
 			"PIA_LGL_FOND": {
 				"description": "- La personne concernée a consenti au traitement de ses données à caractère personnel pour une ou plusieurs finalités spécifiques <br> - Le traitement est nécessaire à l'exécution d'un contrat auquel la personne concernée est partie ou à l'exécution de mesures précontractuelles prises à la demande de celle-ci <br> - Le traitement est nécessaire au respect d'une obligation légale, définie par le droit de l’Union ou le droit de l’état membre auquel le responsable de traitement est soumis, à laquelle le responsable du traitement est soumis <br> - Le traitement est nécessaire à la sauvegarde des intérêts vitaux de la personne concernée ou d'une autre personne physique <br> - Le traitement est nécessaire à l'exécution d'une mission d'intérêt public ou relevant de l'exercice de l'autorité publique dont est investi le responsable du traitement <br> - Le traitement est nécessaire aux fins des intérêts légitimes poursuivis par le responsable du traitement ou par un tiers, à moins que ne prévalent les intérêts ou les libertés et droits fondamentaux de la personne concernée qui exigent une protection des données à caractère personnel, notamment lorsque la personne concernée est un enfant. Se référer à l'<a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre2#Article6\">art. 6 du [RGPD]</a>",
 				"name": "Fondement juridique",
-				"source": "PIA2 p4/WIKI Fondement_:_licéité_du_traitement,_interdiction_du_détournement_de_finalité"
+				"source": "DPIA2 p4/WIKI Fondement_:_licéité_du_traitement,_interdiction_du_détournement_de_finalité"
 			},
 			"PIA_LGL_INFO": {
 				"description": "Il s'agit de garantir l’information des personnes et donc éviter la collecte de données à leur insu; vérifier que le traitement ne fait pas l’objet d’une exception ou de conditions particulières.",
@@ -606,17 +606,17 @@
 			"PIA_LGL_ST": {
 				"description": "Un contrat de sous-traitance doit être conclu avec chacun des sous-traitants, précisant l’ensemble des éléments prévus à l’art. 28 du RGPD : durée, périmètre, finalité, des instructions de traitement documentées, l’autorisation préalable en cas de recours à un sous-traitant, mise à disposition de toute documentation apportant la preuve du respect du RGPD, notification dans les meilleurs délais de toute violation de données, etc.",
 				"name": "Sous-traitance",
-				"source": "PIA2 p10/WIKI Sous-traitance_:_identifiée_et_contractualisée"
+				"source": "DPIA2 p10/WIKI Sous-traitance_:_identifiée_et_contractualisée"
 			},
 			"PIA_LGL_SUPT": {
 				"description": "Bien sur lequel reposent des données. Note: il peut s’agir de matériels, de logiciels, de canaux informatiques, de personnes, de supports papier ou de canaux de transmission papier.",
 				"name": "Support des données",
-				"source": "PIA1 p12"
+				"source": "DPIA1 p12"
 			},
 			"PIA_LGL_TRAN": {
 				"description": "Détailler le lieu géographique de stockage des différentes données du traitement. En fonction du pays concerné, vous devrez justifier le choix d’un hébergement hors de l'Union Européenne et indiquer les modalités d’encadrement juridique mises en œuvre afin d’assurer une protection adéquate aux données faisant l’objet d’un transfert transfrontalier. <br> C'est à dire : <br> - Dans un pays de l'Union Européenne <br> - Dans un pays reconnu adéquat par l'Union Européenne <br> - Transfert aux Etats-Unis à une société adhérant Privacy Shield <br>- Autres pays <br> Conformément aux <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre5#Article44\">articles 44 à 49 du [RGPD]</a>",
 				"name": "Transferts",
-				"source": "WIKI Transferts_:_respect_des_obligations_en_mati%C3%A8re_de_transfert_de_donn%C3%A9es_en_dehors_de_l%E2%80%99Union_europ%C3%A9enne et PIAF Objets connectés p17"
+				"source": "WIKI Transferts_:_respect_des_obligations_en_mati%C3%A8re_de_transfert_de_donn%C3%A9es_en_dehors_de_l%E2%80%99Union_europ%C3%A9enne et DPIAF Objets connectés p17"
 			},
 			"PIA_ORG_AUD": {
 				"description": "Existence de mesures permettant de disposer d’une vision globale et à jour de l’état de protection des données et de la conformité au RGPD (contrôler la conformité des traitements, objectifs et indicateurs, responsabilités, etc.).",
@@ -646,7 +646,7 @@
 				"description": "Existence d'un plan encadrant les <strong>mesures de sensibilisation</strong> prises à l’arrivée d’une personne dans sa fonction et d'une procédure décrivant les <strong>mesures prises au départ des personnes accédant aux données</strong>.",
 				"name": "Gestion des personnels",
 				"placeholder": "Indiquez ici les mesures de votre politique de ressource humaine répondant aux problématiques informatique et libertés dans votre organisme.",
-				"source": "PIAF Objets connectés p24"
+				"source": "DPIAF Objets connectés p24"
 			},
 			"PIA_ORG_POL": {
 				"description": "Le Responsable de traitement doit disposer d’une base documentaire formalisant les objectifs et les règles à appliquer dans le domaine « Informatique et libertés » (plan d'action, révision régulière de la politique « Informatique et libertés », etc.).",
@@ -700,7 +700,7 @@
 				"description": "Existence d'une politique de maintenance physique des équipements, précisant le recours éventuel à la sous-traitance.<br>Elle devra encadrer la maintenance à distance si elle est autorisée, et préciser les méthodes de gestion des matériels défectueux.",
 				"name": "Maintenance",
 				"placeholder": "Décrivez ici comment est gérée la maintenance physique des équipements.",
-				"source": "PIAF Objets connectés p25"
+				"source": "DPIAF Objets connectés p25"
 			},
 			"PIA_SEC_MAL": {
 				"description": "Mesures destinées à protéger les accès vers des réseaux publics (Internet) ou non maîtrisés (partenaires), ainsi que les postes de travail et les serveurs contre les codes malveillants qui pourraient affecter la sécurité les données à caractère personnel.",
@@ -718,13 +718,13 @@
 				"description": "En fonction du type de réseau sur lequel le traitement est mis en œuvre (isolé, privé, ou Internet), le responsable de traitement doit mettre en place des systèmes de protection adéquats : pare-feu, sondes de détection d'intrusion ou autres dispositifs actifs ou passifs sont chargés d'assurer la sécurité du réseau.",
 				"name": "Sécurisation des canaux informatiques",
 				"placeholder": "Indiquez ici sur quel type de réseau le traitement est mis en œuvre et les équipements assurant sa sécurisation.",
-				"source": "PIAF Objets connectés p25"
+				"source": "DPIAF Objets connectés p25"
 			},
 			"PIA_SEC_PHY": {
 				"description": "Existence d'un contrôle des accès physique aux locaux hébergeant le traitement (zonage, accompagnement des visiteurs, port de badge, portes verrouillées, etc.).<br>Indiquez s’il existe des moyens d’alerte en cas d’effraction.",
 				"name": "Sécurité physique",
 				"placeholder": "Indiquez ici la manière dont est réalisée le contrôle d’accès physique aux locaux hébergeant le traitement.",
-				"source": "PIAF Objets connectés p25"
+				"source": "DPIAF Objets connectés p25"
 			},
 			"PIA_SEC_PROT": {
 				"description": "Existence de mesures pour réduire ou éviter les risques liés à des sources non humaines (phénomènes climatiques, incendie, dégât des eaux, accidents internes ou externes, animaux, etc.) qui pourraient affecter la sécurité des données à caractère personnel  (mesures de prévention, détection, protection, etc.).",
@@ -760,7 +760,7 @@
 				"description": "Moyens mis en œuvre pour <strong>assurer la confidentialité des données</strong> conservées (en base de données, dans des fichiers plats, dans les sauvegardes, etc.) ainsi que les modalités de gestion des clés de chiffrement (création, conservation, modification en cas de suspections de compromission, etc.). <br><br> Détaillez les moyens de chiffrement employés pour les flux de données (VPN, TLS, etc.) intégrés dans le traitement.",
 				"name": "Chiffrement",
 				"placeholder": "Décrivez ici les moyens cryptographiques mis en œuvre pour assurer la confidentialité et l'intégrité des données",
-				"source": "PIAF objets connectés p23"
+				"source": "DPIAF objets connectés p23"
 			},
 			"PIA_TEC_CLO": {
 				"description": "Méthodes utilisées pour cloisonner le traitement.",
@@ -772,7 +772,7 @@
 				"description": "Description de la manière dont les profils utilisateurs sont définis et attribués. Il conviendra de détailler les moyens d’<strong>authentification</strong> mis en œuvre en précisant, le cas échéant précisez les règles applicables aux mots de passe (longueur minimale, structure obligatoire, durée de validité, nombre de tentatives infructueuses avant blocage du compte, etc.).",
 				"name": "Contrôle des accès logiques",
 				"placeholder": "Indiquez ici comment les profils utilisateurs sont définis et attribués.",
-				"source": "PIAF Objets connectés p21"
+				"source": "DPIAF Objets connectés p21"
 			},
 			"PIA_TEC_LOG": {
 				"description": "Politiques de journalisation des événements et de conservation des traces qui en résultent.",
@@ -784,13 +784,13 @@
 				"description": "La sensibilité des données peut être réduite à l'aide des méthodes suivantes : filtrage et retrait, réduction de la sensibilité par transformation, réduction du caractère identifiant des données, réduction de l'accumulation de données, restriction de l’accès aux données",
 				"name": "Minimisation des données",
 				"placeholder": "Décrivez ici les méthodes mises en oeuvre pour réduire la sensibilité des données.",
-				"source": "PIAF objets connectés p41"
+				"source": "DPIAF objets connectés p41"
 			},
 			"PIA_TEC_PAP": {
 				"description": "Politiques concernant les documents papiers contenant des données sont utilisés dans le cadre du traitement. Elles décrivent comment ils sont imprimés, stockés, détruits et échangés.",
 				"name": "Sécurisation des documents papier",
 				"placeholder": "Indiquez ici les procédures concernant le cycle de vie des documents papier contenant des données à caractère personnel.",
-				"source": "PIAF Objets connectés p21"
+				"source": "DPIAF Objets connectés p21"
 			},
 			"PIA_VAL_ACT": {
 				"description": "Le plan d'action est la description de la stratégie, des moyens et des effectifs à mettre en oeuvre pour que les mesures correctives définies entrent en fonction. Pour chaque tâche il convient de désigner un responsable et de définir des délais.",
@@ -805,17 +805,17 @@
 			"PIA_VAL_CONC": {
 				"description": "L'article <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35\">35-9 du RGPD</a>, dispose que le responsable de traitement demande l'avis des personnes concernées le cas échéant.<br>Cet avis peut être recueilli par divers moyens, selon le contexte (étude interne ou externe concernant la finalité et les moyens du traitement, question aux représentants du personnel ou aux syndicats, enquête auprès des futurs clients du responsable de traitement.<br><strong>Si le responsable de traitement décide de passer outre</strong> l’avis des personnes concernées, il doit <strong>consigner la justification de sa décision.</strong><br>Si le responsable de traitement considère que <br>recueillir l’avis des personnes concernées n’est pas pertinent</strong>, il doit également en <strong>consigner la justification.</strong>",
 				"name": "Avis des personnes concernées",
-				"source": "PIAF Objets connectés p39"
+				"source": "DPIAF Objets connectés p39"
 			},
 			"PIA_VAL_DPO": {
 				"description": "L'article <a target=\"_blank\" href=\"https://www.cnil.fr/fr/reglement-europeen-protection-donnees/chapitre4#Article35\">35-2 du RGPD</a>, dispose que le responsable de traitement demande conseil au délégué à la protection des données lors d'une analyse d'impact relative à la protection des données.<br><strong>Cet avis peut être défavorable à la mise en œuvre du traitement, sans pour autant contraindre la décision du responsable de traitement.</strong>",
 				"name": "Avis du délégué à la protection des données",
-				"source": "PIAF Objets connectés p36"
+				"source": "DPIAF Objets connectés p36"
 			},
 			"PIA_VAL_RT": {
-				"description": "<strong>Le responsable de traitement décide formellement</strong> de l’acceptabilité des mesures choisies, des risques résiduels et du plan d'action, de manière argumentée, au regard des enjeux préalablement identifiés et de l'avis des parties prenantes. Le PIA peut ainsi être :<br>- validé ;<br>- à améliorer (expliquer en quoi) ;<br>- refusé (ainsi que le traitement considéré).<br>Le cas échéant, il conviendra de revoir les étapes précédentes pour que le PIA puisse être validé.<br>Cette décision ne préjuge en rien de l’évaluation de conformité qui peut être faite, le cas échéant, par l'autorité de protection des données (en France, la CNIL), par exemple dans le cadre de formalités préalables ou de contrôles.",
+				"description": "<strong>Le responsable de traitement décide formellement</strong> de l’acceptabilité des mesures choisies, des risques résiduels et du plan d'action, de manière argumentée, au regard des enjeux préalablement identifiés et de l'avis des parties prenantes. Le DPIA peut ainsi être :<br>- validé ;<br>- à améliorer (expliquer en quoi) ;<br>- refusé (ainsi que le traitement considéré).<br>Le cas échéant, il conviendra de revoir les étapes précédentes pour que le DPIA puisse être validé.<br>Cette décision ne préjuge en rien de l’évaluation de conformité qui peut être faite, le cas échéant, par l'autorité de protection des données (en France, la CNIL), par exemple dans le cadre de formalités préalables ou de contrôles.",
 				"name": "Validation du responsable de traitement",
-				"source": "PIAF Objets connectés p 40"
+				"source": "DPIAF Objets connectés p 40"
 			}
 		},
 		"title": "Base de connaissances"
@@ -870,13 +870,13 @@
 			"review_section": "Évaluer une section"
 		},
 		"import_wrong_pia_file": {
-			"content": "Le fichier importé ne correspond pas à un fichier de type PIA"
+			"content": "Le fichier importé ne correspond pas à un fichier de type DPIA"
 		},
 		"import_wrong_structure_file": {
 			"content": "Le fichier importé ne correspond pas à un fichier de type Modèle"
 		},
 		"modal_select_text_pia": {
-			"content": "Le contenu du Rapport PIA a été copié dans votre presse-papier."
+			"content": "Le contenu du Rapport DPIA a été copié dans votre presse-papier."
 		},
 		"not_enough_measures_to_remove": {
 			"content": "<span class='strong'>Attention,</span><br>Au moins une mesure doit être renseignée : suppression impossible."
@@ -896,8 +896,8 @@
 			"remove": "Supprimer cette <br>mesure"
 		},
 		"remove_pia": {
-			"content": "<span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer ce PIA ?",
-			"remove": "Supprimer ce PIA"
+			"content": "<span class='strong'>Attention,</span><br>Êtes-vous sûr de vouloir<br>supprimer ce DPIA ?",
+			"remove": "Supprimer ce DPIA"
 		},
 		"remove_question": {
 			"content": "Souhaitez-vous supprimer la question ?",
@@ -986,7 +986,7 @@
 		"sections": {
 			"based_on_structure_name": "Basé sur le modèle :",
 			"homepage_link": "Retourner à l'accueil",
-			"refuse_pia": "PIA refusé",
+			"refuse_pia": "DPIA refusé",
 			"status": {
 				"evaluation": {
 					"cancel": "annuler la demande d'évaluation.",
@@ -1001,7 +1001,7 @@
 					"title": "En attente de validation"
 				}
 			},
-			"validate_pia": "Valider le PIA"
+			"validate_pia": "Valider le DPIA"
 		},
 		"statuses": {
 			"0": "En cours",
@@ -1026,15 +1026,15 @@
 	},
 	"rejection_page": {
 		"applied_adjustments": "Modifications apportées",
-		"applied_adjustments_placeholder": "Décrivez les modifications apportées au PIA.",
+		"applied_adjustments_placeholder": "Décrivez les modifications apportées au DPIA.",
 		"button": {
 			"abandon_treatment": "Abandonner le traitement",
-			"reject_pia": "Refuser le PIA",
+			"reject_pia": "Refuser le DPIA",
 			"send_for_validation": "Renvoyer pour validation"
 		},
 		"previous_rejection": "Refus précédent",
 		"rejection_reason": "Motif du refus",
-		"rejection_reason_placeholder": "Décrivez les motifs de refus de validation du PIA.",
+		"rejection_reason_placeholder": "Décrivez les motifs de refus de validation du DPIA.",
 		"title": "Historique de validation"
 	},
 	"sections": {
@@ -1269,7 +1269,7 @@
 					"title": "Cartographie des risques"
 				},
 				"2": {
-					"short_help": "Planifiez en détail la mise en œuvre des mesures complémentaires déterminées au cours du PIA. Cette partie est automatiquement mise à jour en fonction des évaluations faites de chaque élément composant l'analyse d'impact.",
+					"short_help": "Planifiez en détail la mise en œuvre des mesures complémentaires déterminées au cours du DPIA. Cette partie est automatiquement mise à jour en fonction des évaluations faites de chaque élément composant l'analyse d'impact.",
 					"title": "Plan d'action"
 				},
 				"3": {
@@ -1277,13 +1277,13 @@
 					"title": "Avis du DPD et des personnes concernées"
 				},
 				"4": {
-					"title": "Valider le PIA"
+					"title": "Valider le DPIA"
 				},
 				"5": {
-					"title": "PIA refusé"
+					"title": "DPIA refusé"
 				}
 			},
-			"short_help": "Cette section vous permet de préparer et de formaliser la validation du PIA.",
+			"short_help": "Cette section vous permet de préparer et de formaliser la validation du DPIA.",
 			"title": "Validation"
 		}
 	},
@@ -1345,7 +1345,7 @@
       "check_all": "Activer / désactiver l'ensemble des filtres d'affichage",
 			"action_plan_content": " Afficher le plan d'action",
 			"context_content": "Afficher la section \"Contexte\"",
-			"main_content": "Afficher la section \"Informations du PIA\"",
+			"main_content": "Afficher la section \"Informations du DPIA\"",
 			"principles_content": "Afficher la section \"Principes fondamentaux\"",
 			"risks_cartography_content": "Afficher la cartographie des risques",
 			"risks_content": "Afficher la section \"Risques\"",
@@ -1366,20 +1366,20 @@
 		"people_search_status_ok": "L'avis des personnes concernées a été demandé.",
 		"pia_assessor": "Nom de l'évaluateur",
 		"pia_author": "Nom de l'auteur",
-		"pia_name": "Nom du PIA",
+		"pia_name": "Nom du DPIA",
 		"pia_validator": "Nom du validateur",
 		"previous_page": "Retour à la page précédente",
 		"rejection_reason": "Raison du refus",
 		"risks_cartography_title": "Cartographie des risques",
 		"risks_overview_title": "Vue d'ensemble des risques",
-		"title": "Informations du PIA"
+		"title": "Informations du DPIA"
 	},
 	"validation_page": {
-		"add_signed_pia": "Ajouter le rapport PIA signé",
-		"after_reading": "Après lecture intégrale du PIA concernant le traitement des données liées à l'activité de : ",
+		"add_signed_pia": "Ajouter le rapport DPIA signé",
+		"after_reading": "Après lecture intégrale du DPIA concernant le traitement des données liées à l'activité de : ",
 		"button": {
 			"rejection": "Refuser la validation",
-			"signed_validation": "Faire signer le PIA par le responsable",
+			"signed_validation": "Faire signer le DPIA par le responsable",
 			"simple_validation": "Validation simple"
 		},
 		"confirmation1": "Je confirme que la description du contexte de mon traitement est conforme à la réalité.",
@@ -1389,13 +1389,13 @@
 		"latest_signed_attachment": "Dernière pièce jointe signée",
 		"mandatory_fields": "Tous les champs doivent être cochés",
 		"remove_attachment": "Supprimer",
-		"responsible": "Responsable de la validation du PIA : ",
+		"responsible": "Responsable de la validation du DPIA : ",
 		"signed_attachments_history": "Historique des pièces jointes signées",
 		"tools": {
 			"dashboard": "Accueil",
 			"display_pia": "Afficher le rapport"
 		},
 		"validated_pia_with_signature": "Validé",
-		"waiting_for_signature": "En attente de la signature du rapport PIA"
+		"waiting_for_signature": "En attente de la signature du rapport DPIA"
 	}
 }

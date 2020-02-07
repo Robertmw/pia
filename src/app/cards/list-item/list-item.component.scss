@@ -1,4 +1,4 @@
-@import '../../../assets/stylesheets/variables';
+@import "../../../assets/stylesheets/variables";
 
 .pia-listsBlock-item {
   position: relative;
@@ -13,10 +13,13 @@
   }
   div[contenteditable] {
     cursor: text;
-    &:focus, &:hover, &:active {
-      outline: 1px dotted $pia-green;
+    &:focus,
+    &:hover,
+    &:active {
+      outline: 1px dotted $pia-gray-dark;
     }
-    &:focus, &:active {
+    &:focus,
+    &:active {
       background-color: #fff;
     }
   }
@@ -27,7 +30,7 @@
     display: flex;
     justify-content: space-around;
     a {
-      color: $pia-green;
+      color: $pia-dark-black;
       font-size: 2rem;
       margin: 0 2px;
     }
@@ -64,7 +67,9 @@
         }
       }
     }
-    &:focus, &:hover, &:active {
+    &:focus,
+    &:hover,
+    &:active {
       ul {
         display: block;
       }

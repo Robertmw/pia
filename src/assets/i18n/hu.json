@@ -115,7 +115,7 @@
 		"logo_subtitle": "",
 		"logo_title": "Adatvédelmi hatásvizsgálat",
 		"pia_example_link": "DPIA-példa",
-		"structures": "TO BE TRANSLATED - Modèles de PIA",
+		"structures": "TO BE TRANSLATED - Modèles de DPIA",
 		"tools": {
 			"about": "Rólunk",
 			"accessibility": "Hozzáférés látássérülteknek (erős színkontraszt, daltonizmus)",
@@ -425,7 +425,7 @@
 			"PIA_DEF_MIND": {
 				"description": "A kockázatok súlyosságának csökkentése az adatok minimalizálása által (az adatok érzékenységének csökkentése például azok szűrésével, az adatkezelés célja szempontjából szükséges adatokon túlmenő adatok eltávolítása, álnevesítés stb.).",
 				"name": "Adatminimalizálás",
-				"source": "PIA3 p64"
+				"source": "DPIA3 p64"
 			},
 			"PIA_DEF_OPP": {
 				"description": "Az érintett jogosult arra, hogy a saját helyzetével kapcsolatos okokból bármikor tiltakozzon személyes adatainak a kezelése ellen <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32016R0679&qid=1520586769024&from=HU\">GDPR 21. cikkét</a>.",
@@ -581,7 +581,7 @@
 			"PIA_LGL_DUR": {
 				"description": "Az adatkezelés tárgyát képező személyes adatok minden típusa esetén meg kell határozni az adatmegőrzés időtartamát, és azt törvényes követelmények és/vagy adatkezelési szükségletek szerint kell igazolni. Meg kell különböztetni ezért az általános és az archivált adatokat, amely utóbbiakhoz csak az érintett felek férhetnek hozzá. Olyan törlési mechanizmust kell kialakítani, amely archiválja az általános adatokat, illetve a tárolás időtartamának lejártával megszűri az archiváltakat. A logikai- és naplóbejegyzésekből is törölni kell a személyes adatokat.",
 				"name": "Adatmegőrzési határidő",
-				"source": "PIAF Összekapcsolt tárgyak, 12. o."
+				"source": "DPIAF Összekapcsolt tárgyak, 12. o."
 			},
 			"PIA_LGL_FIN": {
 				"description": "A személyes adatok gyűjtése csak meghatározott, egyértelmű és jogszerű célból történhet, és azokat ne kezeljék ezekkel a célokkal össze nem egyeztethető módon. </strong> <br>Lásd <a target=\"_blank\" href=\"http://eur-lex.europa.eu/legal-content/HU/TXT/HTML/?uri=CELEX:32016R0679&qid=1520586769024&from=HU\"> a GDPR 5. cikk (1) bekezdésének b) pontját</a>.",
@@ -670,13 +670,13 @@
 				"description": "A személyes adatok rendelkezésre állását és/vagy sértetlenségét és egyben bizalmas kezelésüket biztosító eljárások és eszközök.",
 				"name": "Biztonsági mentés",
 				"placeholder": "Tüntesse fel a biztonsági mentések kezelési módját. Nyilatkozzon arra vonatkozóan,  hogy biztonságos helyen tárolják-e azokat.",
-				"source": "DPIAF Összekapcsolt tárgyak, 23. o. és PIA+ 27. o. - WIKI "
+				"source": "DPIAF Összekapcsolt tárgyak, 23. o. és DPIA+ 27. o. - WIKI "
 			},
 			"PIA_SEC_COMP": {
 				"description": "Munkaállomásokra telepített védelmi eszközök (automatikus zárás, rendszeres frissítés, konfiguráció, fizikai biztonság stb.), amely csökkenti a software tulajdonságainak (operációs rendszerek, üzleti applikációk stb.) a személyes adatokra ártalmas kihasználhatóságát.",
 				"name": "A munkaállomások kezelése",
 				"placeholder": "Írja le a munkaállomásokra telepített védelmi eszközöket.",
-				"source": "PIAF Connected Objects p22 - WIKI"
+				"source": "DPIAF Connected Objects p22 - WIKI"
 			},
 			"PIA_SEC_CTR": {
 				"description": "Az adatfeldolgozók által kezelt személyes adatoknak megfelelő védelemmel kell rendelkezniük. Kizárólag olyan adatfeldolgozók vehetők igénybe, akik ehhez megfelelő garanciát biztosítanak (különösen a szakértelem, megbízhatóság és a megfelelő források terén). <br>Az adatfeldolgozóknak dokumentálniuk kell a garanciák hatékonyságának biztosítását. Ezek a garanciák a következők: <br>- személyes adatok titkosítása; <br> -adatátvitel titkosítása (pl HTTPS kapcsolat, VPN, stb); <br>- hálózati védelem, nyomon követhetőség, jogosultságkezelés, hitelesítés, stb. <br>Az adatfeldolgozóval alkalmazzon olyan szerződést, ami kiterjed különösen a következőkre: az adatkezelés tárgya, célja, időtartama, a felek kötelezettségei. <br>Térjen ki emellett az alábbiakra is: <br>- a személyes adatok titkosságával kapcsolatos kötelezettsége; <br> - a felhasználói hitelesítés minimális követelményei; <br> - az adat visszaszolgáltatásának és / vagy megsemmisítésének feltételei a szerződés végén; <br>- az incidensek kezelésére és jelentésére vonatkozó szabályok. <br>Felhő szolgáltatás használata esetén az alábbiakra is szükséges kitérnie: <br>1. Annak meghatározása, hogy pontosan mely személyes adatokat, milyen módon kezelik a felhőben; <br>2. Saját technikai és jogi biztonsági követelmények meghatározása; <br>3. Kockázatelemzés a megfelelő biztonsági intézkedések meghatározása érdekében; <br>4. A tervezett adatkezelés szempontjából releváns felhő típusának azonosítása; <br>5. Olyan szolgáltató választása, amely elegendő garanciával rendelkezik; <br>6. A belső biztonságpolitika áttekintése; <br>7. A változások rendszeres követése.",
@@ -870,7 +870,7 @@
 			"review_section": "Szakasz áttekintése"
 		},
 		"import_wrong_pia_file": {
-			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type PIA"
+			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type DPIA"
 		},
 		"import_wrong_structure_file": {
 			"content": "TO BE TRANSLATED - Le fichier importé ne correspond pas à un fichier de type Modèle"

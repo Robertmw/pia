@@ -1,6 +1,6 @@
-# Tutorial for translating the PIA software
+# Tutorial for translating the DPIA software
 
-First, we would like to thank you for taking an interest in translating the content of the PIA software. To do so, you will need to [login](https://github.com/login?return_to=%2Fjoin%3Fsource%3Dheader-home "Login to your Github Account") to your Github account or [create one](https://github.com/join?source=header-home "Create Github Account") if needed.  
+First, we would like to thank you for taking an interest in translating the content of the DPIA software. To do so, you will need to [login](https://github.com/login?return_to=%2Fjoin%3Fsource%3Dheader-home "Login to your Github Account") to your Github account or [create one](https://github.com/join?source=header-home "Create Github Account") if needed.  
 
 ## Creating the translation file
 #### Open en.json
